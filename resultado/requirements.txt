@@ -1,0 +1,12 @@
+geopandas==0.8.1
+pandas==1.1.4
+sentinelhub==3.1.0
+Shapely==1.7.1
+numpy==1.19.4
+eo-learn-core==0.8.0
+eo-learn-features==0.8.0
+eo-learn-geometry==0.8.0
+eo-learn-io==0.8.0
+eo-learn-visualization==0.8.0
+imblearn==0.0
+tqdm==4.51.0
